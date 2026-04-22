@@ -1,0 +1,155 @@
+{
+  "title": "Mystic Duel",
+  "theme": "tense",
+  "duration_minutes": 1.0,
+  "scene_summary": "Two rival magicians, Lyra and Kael, engage in a mystical duel to determine dominance.",
+  "characters": [
+    {
+      "name": "Lyra",
+      "role": "Illusionist",
+      "personality": "Deceptive and cunning"
+    },
+    {
+      "name": "Kael",
+      "role": "Pyromancer",
+      "personality": "Hot-headed and impulsive"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Lyra",
+      "text": "You underestimate my power, Kael. The shadows will be your downfall."
+    },
+    {
+      "speaker": "Kael",
+      "text": "Ha! You think darkness can defeat fire? I'll incinerate you where you stand!"
+    },
+    {
+      "speaker": "Lyra",
+      "text": "Foolish pyromancer. Your flames will only serve to fuel the shadows."
+    },
+    {
+      "speaker": "Kael",
+      "text": "You may have mastered illusions, but I've mastered the art of destruction!"
+    },
+    {
+      "speaker": "Lyra",
+      "text": "We'll see about that. Shadow shield!"
+    },
+    {
+      "speaker": "Kael",
+      "text": "Pyroblast! Take this, Lyra!"
+    },
+    {
+      "speaker": "Lyra",
+      "text": "Ah, but the shadows are always one step ahead... *fades Kael's flames away*"
+    },
+    {
+      "speaker": "Kael",
+      "text": "No! How did you...?"
+    },
+    {
+      "speaker": "Lyra",
+      "text": "The art of deception is not just about illusions, but about understanding the opponent. You underestimated me."
+    },
+    {
+      "speaker": "Kael",
+      "text": "I won't make that mistake again..."
+    },
+    {
+      "speaker": "Lyra",
+      "text": "You should have stayed in your flames, Kael. The shadows are where the true power lies."
+    }
+  ],
+  "dialogue_with_timing": [
+    {
+      "speaker": "Lyra",
+      "text": "You underestimate my power, Kael. The shadows will be your downfall.",
+      "word_count": 11,
+      "estimated_duration_sec": 4.4
+    },
+    {
+      "speaker": "Kael",
+      "text": "Ha! You think darkness can defeat fire? I'll incinerate you where you stand!",
+      "word_count": 13,
+      "estimated_duration_sec": 5.2
+    },
+    {
+      "speaker": "Lyra",
+      "text": "Foolish pyromancer. Your flames will only serve to fuel the shadows.",
+      "word_count": 11,
+      "estimated_duration_sec": 4.4
+    },
+    {
+      "speaker": "Kael",
+      "text": "You may have mastered illusions, but I've mastered the art of destruction!",
+      "word_count": 12,
+      "estimated_duration_sec": 4.8
+    },
+    {
+      "speaker": "Lyra",
+      "text": "We'll see about that. Shadow shield!",
+      "word_count": 6,
+      "estimated_duration_sec": 2.4
+    },
+    {
+      "speaker": "Kael",
+      "text": "Pyroblast! Take this, Lyra!",
+      "word_count": 4,
+      "estimated_duration_sec": 1.6
+    },
+    {
+      "speaker": "Lyra",
+      "text": "Ah, but the shadows are always one step ahead... *fades Kael's flames away*",
+      "word_count": 13,
+      "estimated_duration_sec": 5.2
+    },
+    {
+      "speaker": "Kael",
+      "text": "No! How did you...?",
+      "word_count": 4,
+      "estimated_duration_sec": 1.6
+    },
+    {
+      "speaker": "Lyra",
+      "text": "The art of deception is not just about illusions, but about understanding the opponent. You underestimated me.",
+      "word_count": 17,
+      "estimated_duration_sec": 6.8
+    },
+    {
+      "speaker": "Kael",
+      "text": "I won't make that mistake again...",
+      "word_count": 6,
+      "estimated_duration_sec": 2.4
+    },
+    {
+      "speaker": "Lyra",
+      "text": "You should have stayed in your flames, Kael. The shadows are where the true power lies.",
+      "word_count": 16,
+      "estimated_duration_sec": 6.4
+    }
+  ],
+  "target_duration_sec": 60.0,
+  "total_estimated_dialogue_sec": 45.2,
+  "estimated_line_target": 15,
+  "input_effect_report": {
+    "requested_story_sentence": "two magicians dueling with each other using their respective magic in a fantasy wolrd",
+    "requested_theme": "tense",
+    "requested_num_characters": 2,
+    "requested_duration_minutes": 1.0,
+    "actual_num_characters": 2,
+    "actual_dialogue_lines": 11,
+    "story_keyword_matches": [
+      "two",
+      "magicians",
+      "magic"
+    ],
+    "theme_keyword_matches": [],
+    "story_input_effect_detected": true,
+    "theme_input_effect_detected": false,
+    "character_count_effect_detected": true,
+    "duration_effect_detected": false
+  },
+  "validation_errors": [],
+  "generation_attempt": 1
+}

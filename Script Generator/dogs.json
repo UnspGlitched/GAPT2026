@@ -1,0 +1,174 @@
+{
+  "title": "The Lonely Encounter",
+  "theme": "sad",
+  "duration_minutes": 1.0,
+  "scene_summary": "A lonely dog, Duke, meets two stray dogs, Luna and Jasper, in a abandoned alleyway.",
+  "characters": [
+    {
+      "name": "Duke",
+      "role": "The lonely dog",
+      "personality": "curious, yet cautious"
+    },
+    {
+      "name": "Luna",
+      "role": "One of the stray dogs",
+      "personality": "skeptical, with a hint of desperation"
+    },
+    {
+      "name": "Jasper",
+      "role": "The other stray dog",
+      "personality": "rough around the edges, with a soft spot for Duke"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Duke",
+      "text": "Hey... are you guys okay?"
+    },
+    {
+      "speaker": "Luna",
+      "text": "Mind your own business."
+    },
+    {
+      "speaker": "Jasper",
+      "text": "Ease up, Luna. He's just trying to help."
+    },
+    {
+      "speaker": "Duke",
+      "text": "I mean it. You look lost. And hungry."
+    },
+    {
+      "speaker": "Luna",
+      "text": "We're fine. Just passing through."
+    },
+    {
+      "speaker": "Jasper",
+      "text": "Yeah, we're just trying to find a meal and a place to rest."
+    },
+    {
+      "speaker": "Duke",
+      "text": "I know how that is. Sometimes it feels like nobody cares."
+    },
+    {
+      "speaker": "Luna",
+      "text": "Nobody does. That's the only way we'll survive."
+    },
+    {
+      "speaker": "Jasper",
+      "text": "Shh, Luna. You don't have to be so rough."
+    },
+    {
+      "speaker": "Duke",
+      "text": "Hey, I get it. We're all just trying to make it."
+    },
+    {
+      "speaker": "Luna",
+      "text": "Yeah... yeah..."
+    },
+    {
+      "speaker": "Jasper",
+      "text": "You know what? Duke here looks like he could use some company. What do you say, Luna?"
+    },
+    {
+      "speaker": "Duke",
+      "text": "Really? You'd want to hang out with me?"
+    },
+    {
+      "speaker": "Jasper",
+      "text": "Why not? We're all in the same boat."
+    },
+    {
+      "speaker": "Luna",
+      "text": "Fine... but just for a little while. And don't get too attached."
+    },
+    {
+      "speaker": "Duke",
+      "text": "I won't. I promise."
+    }
+  ],
+  "validation_errors": [],
+  "dialogue_with_timing": [
+    {
+      "speaker": "Duke",
+      "text": "Hey... are you guys okay?",
+      "estimated_duration_sec": 2.0
+    },
+    {
+      "speaker": "Luna",
+      "text": "Mind your own business.",
+      "estimated_duration_sec": 1.6
+    },
+    {
+      "speaker": "Jasper",
+      "text": "Ease up, Luna. He's just trying to help.",
+      "estimated_duration_sec": 3.2
+    },
+    {
+      "speaker": "Duke",
+      "text": "I mean it. You look lost. And hungry.",
+      "estimated_duration_sec": 3.2
+    },
+    {
+      "speaker": "Luna",
+      "text": "We're fine. Just passing through.",
+      "estimated_duration_sec": 2.0
+    },
+    {
+      "speaker": "Jasper",
+      "text": "Yeah, we're just trying to find a meal and a place to rest.",
+      "estimated_duration_sec": 5.2
+    },
+    {
+      "speaker": "Duke",
+      "text": "I know how that is. Sometimes it feels like nobody cares.",
+      "estimated_duration_sec": 4.4
+    },
+    {
+      "speaker": "Luna",
+      "text": "Nobody does. That's the only way we'll survive.",
+      "estimated_duration_sec": 3.2
+    },
+    {
+      "speaker": "Jasper",
+      "text": "Shh, Luna. You don't have to be so rough.",
+      "estimated_duration_sec": 3.6
+    },
+    {
+      "speaker": "Duke",
+      "text": "Hey, I get it. We're all just trying to make it.",
+      "estimated_duration_sec": 4.4
+    },
+    {
+      "speaker": "Luna",
+      "text": "Yeah... yeah...",
+      "estimated_duration_sec": 1.0
+    },
+    {
+      "speaker": "Jasper",
+      "text": "You know what? Duke here looks like he could use some company. What do you say, Luna?",
+      "estimated_duration_sec": 6.8
+    },
+    {
+      "speaker": "Duke",
+      "text": "Really? You'd want to hang out with me?",
+      "estimated_duration_sec": 3.2
+    },
+    {
+      "speaker": "Jasper",
+      "text": "Why not? We're all in the same boat.",
+      "estimated_duration_sec": 3.2
+    },
+    {
+      "speaker": "Luna",
+      "text": "Fine... but just for a little while. And don't get too attached.",
+      "estimated_duration_sec": 4.8
+    },
+    {
+      "speaker": "Duke",
+      "text": "I won't. I promise.",
+      "estimated_duration_sec": 1.6
+    }
+  ],
+  "total_estimated_dialogue_sec": 53.4,
+  "target_duration_sec": 60.0
+}
