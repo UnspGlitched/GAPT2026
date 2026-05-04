@@ -1,0 +1,80 @@
+{
+  "title": "A Chance Encounter",
+  "theme": "happy",
+  "scene_summary": "An adventurous human, Kael, and his pet wolf, Frost, meet a curious elf, Lirien, in the heart of the Whispering Woods. As they cross paths, the three discover a shared love for the beauty of nature.",
+  "total_duration_ms": 27133,
+  "total_duration_sec": 27.133,
+  "line_gap_ms": 600,
+  "lines": [
+    {
+      "line_index": 1,
+      "speaker": "Kael",
+      "original_text": "Ah, the Whispering Woods. I've heard tales of ancient secrets hidden within these trees.",
+      "tts_text": "Ah, the Whispering Woods. I've heard tales of ancient secrets hidden within these trees.",
+      "voice_id": "TX3LPaxmHKxFdv7VOQHJ",
+      "voice_label": "Liam \u2014 energetic adventurer",
+      "start_ms": 0,
+      "end_ms": 5306,
+      "duration_ms": 5306,
+      "duration_sec": 5.306,
+      "estimated_duration_sec": 5.6,
+      "clip_file": "audio_output/clips/A_Chance_Encounter/01_kael.mp3"
+    },
+    {
+      "line_index": 2,
+      "speaker": "Lirien",
+      "original_text": "Ah, you're new around here? I can tell by your awestruck gaze. Welcome to our humble home!",
+      "tts_text": "Ah, you're new around here? I can tell by your awestruck gaze. Welcome to our humble home!",
+      "voice_id": "cgSgspJ2msm6clMCkdW9",
+      "voice_label": "Jessica \u2014 playful elf",
+      "start_ms": 5906,
+      "end_ms": 11335,
+      "duration_ms": 5429,
+      "duration_sec": 5.429,
+      "estimated_duration_sec": 6.8,
+      "clip_file": "audio_output/clips/A_Chance_Encounter/02_lirien.mp3"
+    },
+    {
+      "line_index": 3,
+      "speaker": "Frost",
+      "original_text": "Hrr... (whispers) Yes, Kael.",
+      "tts_text": "Hrr... Yes, Kael.",
+      "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+      "voice_label": "Callum \u2014 husky wolf",
+      "start_ms": 11935,
+      "end_ms": 13835,
+      "duration_ms": 1900,
+      "duration_sec": 1.9,
+      "estimated_duration_sec": 1.6,
+      "clip_file": "audio_output/clips/A_Chance_Encounter/03_frost.mp3"
+    },
+    {
+      "line_index": 4,
+      "speaker": "Lirien",
+      "original_text": "I see you're not alone! You're accompanied by a noble companion. Tell me, what's the story behind that magnificent coat?",
+      "tts_text": "I see you're not alone! You're accompanied by a noble companion. Tell me, what's the story behind that magnificent coat?",
+      "voice_id": "cgSgspJ2msm6clMCkdW9",
+      "voice_label": "Jessica \u2014 playful elf",
+      "start_ms": 14435,
+      "end_ms": 21622,
+      "duration_ms": 7187,
+      "duration_sec": 7.187,
+      "estimated_duration_sec": 8.0,
+      "clip_file": "audio_output/clips/A_Chance_Encounter/04_lirien.mp3"
+    },
+    {
+      "line_index": 5,
+      "speaker": "Kael",
+      "original_text": "Frost here is more than just my loyal companion \u2013 she's the embodiment of good fortune and protection.",
+      "tts_text": "Frost here is more than just my loyal companion \u2013 she's the embodiment of good fortune and protection.",
+      "voice_id": "TX3LPaxmHKxFdv7VOQHJ",
+      "voice_label": "Liam \u2014 energetic adventurer",
+      "start_ms": 22222,
+      "end_ms": 27133,
+      "duration_ms": 4911,
+      "duration_sec": 4.911,
+      "estimated_duration_sec": 7.2,
+      "clip_file": "audio_output/clips/A_Chance_Encounter/05_kael.mp3"
+    }
+  ]
+}
